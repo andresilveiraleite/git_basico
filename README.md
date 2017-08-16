@@ -6,6 +6,8 @@
 
 3. [História do GIT](docs/historiaGit.md)
 
-3. [Principais Comandos do Git](docs/principaisComandosGit.md)
+4. [O que é Github?](docs/oqueeGithub.md)
 
-4. [Subir Código para o Git Hub](docs/gitHub.md)
+5. [Principais Comandos do Git](docs/principaisComandosGit.md)
+
+6. [Subir Código para o Git Hub](docs/gitHub.md)
