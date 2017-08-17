@@ -7,7 +7,10 @@ O git armazena as informações em 3 lugares:
 2. git config do usuário 
 3. git config do projeto (específico daquele repositório)
 
+Após a instalação do git no sistema operacional de sua preferência, 
+
 ### Configuração do Usuário:
+Devemos iniciar o programa "GIT-BASH" instalado e realizar os seguintes comandos exibidos logo abaixo:
 
 Definindo Usuário:
 git config --global user.name "André Leite"
