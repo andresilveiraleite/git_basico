@@ -1,7 +1,7 @@
 # Principais Funcionalidades do GIT
-## Aqui aprenderemos todas as principais funcionalidades do GIT - Sua essência
+## Aqui aprenderemos as principais funcionalidades do GIT - Sua essência
 
-Para criaremos alguns tópicos para nos aprofundarmos em cada um dos assuntos:
+Para isso, criaremos alguns tópicos para nos aprofundarmos em cada um dos assuntos:
 
 1. [Inicializando um novo Repositório](docs/inicializandoRepositorio.md)
 2. [Status dos seus arquivos - Ciclo](docs/statusArquivos.md)
