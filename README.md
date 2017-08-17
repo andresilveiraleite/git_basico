@@ -12,6 +12,4 @@
 
 6. [Configurando o GIT](docs/configurandoGit.md)
 
-7. [Principais Funcionalidades do GIT](docs/principaisFuncionalidades.mm)
-
-8. [Principais Comandos do Git](docs/principaisComandosGit.md)
+7. [Principais Funcionalidades do GIT](docs/principaisFuncionalidades.md)
