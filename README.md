@@ -13,5 +13,3 @@
 6. [Configurando o GIT](docs/configurandoGit.md)
 
 6. [Principais Comandos do Git](docs/principaisComandosGit.md)
-
-7. [Subir Código para o Git Hub](docs/)
