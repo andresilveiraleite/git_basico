@@ -16,7 +16,9 @@ Definindo E-mail:
 git config --global user.email "asmla@hotmail.com"
 
 Definindo o Editor de preferência do usuário:
+
 git config --global core.editor visual studio --> Ou sub (sublime) ou vim.
+
 Obs.: Se não for definido o editor de sua preferência, o git por padrão utilizará o "VIM".
 
 
