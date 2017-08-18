@@ -16,6 +16,8 @@ O momento em que o arquivo está pronto para ser "Versionado".
 
 Assim que realizarmos o "Commit - Criaremos uma nova versão", os arquivos irão retornar para o status "Unmodified".
 
+![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
+
 ### Analisando qual o nosso diretório e o status inicial do GIT:
 
 1. Validar diretório atual:
@@ -139,4 +141,3 @@ Assim que realizarmos o "Commit - Criaremos uma nova versão", os arquivos irão
 * Ou seja não existe mais nada para ser feito, pois já realizamos o versionamento do nosso arquivo.
 
 
-![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
