@@ -138,6 +138,5 @@ Assim que realizarmos o "Commit - Criaremos uma nova versão", os arquivos irão
 
 * Ou seja não existe mais nada para ser feito, pois já realizamos o versionamento do nosso arquivo.
 
-Gostaria de entender ainda mais sobre os status do GIT? 
 
-[Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
+![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
