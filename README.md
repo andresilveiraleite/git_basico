@@ -14,4 +14,4 @@
 
 7. [Principais Funcionalidades do GIT](docs/principaisFuncionalidadesGit/principaisFuncionalidades.md)
 
-8. [Repositório Remoto - Github](docs/repositoriosRemotos/repositorioRemoto.md)
+8. [Repositório Remoto - Github](docs/repositoriosRemotos/respositorioRemoto.md)
