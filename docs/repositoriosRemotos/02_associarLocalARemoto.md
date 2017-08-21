@@ -1,2 +1,2 @@
-# RAssociar repositório Local ao Remoto
+# Associar repositório Local ao Remoto
 ## 
