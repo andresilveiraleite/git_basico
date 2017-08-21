@@ -18,8 +18,35 @@ Nesse caso, teremos que alterar um arquivo e adicioná-lo ao git (git add *) e l
 
  Para isso precisamos executar o seguinte comando:
 
- git reset HEAD [Nome do Arquivo.extensão]  --> Significa que gostaríamos de voltar ao ponto anterior do git (stage --> unstage) 
+ git reset HEAD [Nome do Arquivo.extensão]  --> Significa que gostaríamos de voltar ao ponto anterior do git (staged --> unstage) 
 
- Agora, após retornarmos o status, podermos caso seja necessário voltar o arquivo para sua última versão de "commit" (Comando: git checkout [nome do arquivo])
+ Agora, após retornarmos o status, podemos caso seja necessário voltar o arquivo para sua última versão de "commit" (Comando: git checkout [nome do arquivo])
 
+### E se realizarmos um "commit" de uma alteração, conseguiremos voltar o status?
 
+Vamos alterar novamente um arquivo e realizarmos o seguinte comando:
+
+git commit -am "Alterando o arquivo para teste"  --> -a> sigfica incluir todos os arquivos modificados m> Deixar um comentário.
+
+Ou seja, realizamos uma alteração num determinado arquivo, adicionamos o mesmo ao git e executamos o "commit", e agora? Tudo bem, o git possui 3 funcionalidades para resolver esse problema:
+
+1. git reset --soft
+O soft retornará para o[s] arquivo[s] para o status staged - Ficará Pronto para realização do commit.
+
+2. git reset --mixed
+O mixed retornará o[s] arquivo[s] para o status "unstage" - Status pelo qual ainda precisamos incluir as modificações ao git.
+
+3. git reset --hard
+O hard simplesmente irá ignorar o que foi alterado nesse commit e voltar ao ponto inicial, como se nada tivesse sido feito.
+
+Observação importante:
+
+Podemos escolher para qual versão gostaríamos de retornar, para isso, utilizaremos a mesma lógica acima, mas passando como parâmetro o identificador de cada commit realizado. Para encontrarmos o identificador de cada commit, precisamos executar o comando:
+
+git log
+
+Logo depois resgatar o identificado anterior ao que gostaria de retornar e executar um dos comandos listados acima de reset:
+
+Exemplo: 
+
+git reset --soft [identicador do commit]
