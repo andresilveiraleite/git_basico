@@ -7,4 +7,4 @@ Para isso, criaremos alguns tópicos para nos aprofundarmos em cada um dos assun
 2. [Status dos seus arquivos - Ciclo](/docs/statusArquivos.md)
 3. [Logs](/docs/logs.md)
 4. [Diff](/docs/diff.md)
-5. [Desfazendo Commits](/docs/desfazendoCommits.md)
+5. [Desfazendo Commits](/docs/desfazendoAcoes.md)
