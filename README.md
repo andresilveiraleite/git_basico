@@ -12,4 +12,6 @@
 
 6. [Configurando o GIT](docs/configurandoGit.md)
 
-7. [Principais Funcionalidades do GIT](docs/principaisFuncionalidades.md)
+7. [Principais Funcionalidades do GIT](docs/principaisFuncionalidadesGit/principaisFuncionalidades.md)
+
+8. [Repositório Remoto - Github](docs/repositoriosRemotos/repositorioRemoto.md)
