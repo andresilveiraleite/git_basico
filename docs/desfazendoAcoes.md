@@ -12,9 +12,7 @@ git checkout [nome do arquivo] (ex.: git checkout testes.md)
 
 ### E se alterarmos um arquivo e o adicionarmos no git? Não conseguiremos voltar do status "Stage - pronto para commit" para unstage?
 
-Nesse caso, teremos que alterar um arquivo e adicioná-lo ao git (git add *) e logo em seguida para constatarmos a ação, devemos realizando o seguinte comando "git diff", não iremos encontrar nenhuma diferença pois esse arquivo está pronto para realizarmos o "commit".
-
- Agora iremos responder a pergunta do tópico \o/, sim conseguiremos voltar do status "stage" para "unstage".
+Sim, conseguiremos voltar do status "stage" para "unstage".
 
  Para isso precisamos executar o seguinte comando:
 
@@ -31,12 +29,15 @@ git commit -am "Alterando o arquivo para teste"  --> -a> sigfica incluir todos o
 Ou seja, realizamos uma alteração num determinado arquivo, adicionamos o mesmo ao git e executamos o "commit", e agora? Tudo bem, o git possui 3 funcionalidades para resolver esse problema:
 
 1. git reset --soft
-O soft retornará para o[s] arquivo[s] para o status staged - Ficará Pronto para realização do commit.
+
+O soft retornará o[s] arquivo[s] para o status staged - Ficará Pronto para realização do commit.
 
 2. git reset --mixed
+
 O mixed retornará o[s] arquivo[s] para o status "unstage" - Status pelo qual ainda precisamos incluir as modificações ao git.
 
 3. git reset --hard
+
 O hard simplesmente irá ignorar o que foi alterado nesse commit e voltar ao ponto inicial, como se nada tivesse sido feito.
 
 Observação importante:
