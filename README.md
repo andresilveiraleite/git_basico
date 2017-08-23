@@ -16,4 +16,4 @@
 
 8. [Repositório Remoto - Github](docs/repositoriosRemotos/respositorioRemoto.md)
 
-9. [Ramificações - Branch](docs/repositoriosRemotos/branch.md)
+9. [Ramificações - Branch](docs/branch/branch.md)
