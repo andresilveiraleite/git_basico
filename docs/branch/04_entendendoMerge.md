@@ -10,7 +10,10 @@ Para pegar as alteração que foram realizadas no branch de "testes" e disponibi
 
 Visão do cenário:
 
-![Fazendo o Merge](/Imagens/FazendoMerge.png)
+![Fazendo o Merge](Imagens/FazendoMerge.png)
+
+![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
+
 
 ### Prós:
 Operação não destrutiva, ele vai criar um novo commit e juntar tudo. Continuaremos com o histórico intacto.
