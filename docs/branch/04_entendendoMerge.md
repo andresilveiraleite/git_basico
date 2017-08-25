@@ -12,7 +12,7 @@ Visão do cenário:
 
 
 
-![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/FazendoMerge.png)
+![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/fazendoMerge.png)
 
 
 ### Prós:
