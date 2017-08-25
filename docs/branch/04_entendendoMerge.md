@@ -10,7 +10,7 @@ Para pegar as alteração que foram realizadas no branch de "testes" e disponibi
 
 Visão do cenário:
 
-![Fazendo o Merge](/Imagens/merge.jpg)
+![Fazendo o Merge](/Imagens/cenarioMerge.jpg)
 
 
 ### Prós:
