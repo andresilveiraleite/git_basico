@@ -6,6 +6,7 @@ Vamos levar em consideração o seguinte cenário:
 
 ![Cenário de teste - Rebase](/Imagens/rebase.jpg)
 
+
 Além disso cada branch citado acima possui um commit independente
 (A partir do C2> C3 --> testes e A partir do c2> C4--> Master)
 
@@ -13,7 +14,8 @@ Além disso cada branch citado acima possui um commit independente
 
 A grande diferença do merge para o rebase está exatamente na maneira que ele une os commits. No merge teríamos a criação de um novo branch para unir o commit 3 e o 4, no rebase teremos a movimentação do commit 3 para frente do commit 4, logo teremos algo mais linear e sem a permanência de um commit desnecessário.
 
-![Ex. Rebase sendo executado:](/Imagens/rebaseAcionado) 
+
+![Ex. Rebase sendo executado:](/Imagens/rebaseAcionado.jpg) 
 
 
 ### Prós:
