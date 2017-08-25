@@ -4,7 +4,7 @@
 Vamos levar em consideração o seguinte cenário: 
 2 branchs (master e testes) e 3 commits(C0, C1 e C2).
 
-![Cenário de teste - Rebase](/Imagens/rebase.jpg)
+![Cenário de teste - Rebase](/Imagens/rebaseBase.jpg)
 
 
 Além disso cada branch citado acima possui um commit independente
