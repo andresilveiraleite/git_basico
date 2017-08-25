@@ -10,9 +10,9 @@ Para pegar as alteração que foram realizadas no branch de "testes" e disponibi
 
 Visão do cenário:
 
-![Fazendo o Merge](Imagens/FazendoMerge.png)
 
-![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/git_status.jpg)
+
+![Para um melhor entendimento seguem os Status de forma gráfica](/Imagens/FazendoMerge.png)
 
 
 ### Prós:
